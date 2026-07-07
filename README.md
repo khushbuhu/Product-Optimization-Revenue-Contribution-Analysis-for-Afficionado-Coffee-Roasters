@@ -34,6 +34,6 @@ Microsoft Excel
 
 ## Project Presentation
 
-📊 [View Project Presentation](https://github.com/khushbuhu/Product-Optimization-Revenue-Contribution-Analysis-for-Afficionado-Coffee-Roasters/blob/f0f9c9d46b0e72f10bb7cd5855a822eb07f5c622/Presentation2.pptx)
+📊 [View Project Presentation](https://github.com/khushbuhu/Product-Optimization-Revenue-Contribution-Analysis-for-Afficionado-Coffee-Roasters/blob/f9df5d2fcd5cbb83c8fe9619fea83ed1bd80d0de/Presentation2.pptx)
 ## 📂 Power BI Dashboard
 [Download pbix File](https://github.com/khushbuhu/Product-Optimization-Revenue-Contribution-Analysis-for-Afficionado-Coffee-Roasters/blob/bb21340045851816907a4eefa669beeb71e346f7/project2.pbix)
