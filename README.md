@@ -29,6 +29,9 @@ Microsoft Excel
 ## 📂 Dataset (CSV)
 [Download xlsx File](https://github.com/khushbuhu/Product-Optimization-Revenue-Contribution-Analysis-for-Afficionado-Coffee-Roasters/blob/9494d0be52ad2c9b86827d2db6f91a5f0b131eef/Afficionado%20Coffee%20Roasters.xlsx%20-%20Transactions.csv)
 
+[Watch Project Explanation Video](https://1drv.ms/v/c/CA7936912933CC96/IQBmdaitjeDGRYC7BR9PJsPBAUlHZfqDzMHEUpexVewNJ2k?e=yjzxLr)
+
+
 ## Project Presentation
 
 📊 [View Project Presentation](https://github.com/khushbuhu/Product-Optimization-Revenue-Contribution-Analysis-for-Afficionado-Coffee-Roasters/blob/f0f9c9d46b0e72f10bb7cd5855a822eb07f5c622/Presentation2.pptx)
